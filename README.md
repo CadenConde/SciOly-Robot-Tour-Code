@@ -8,6 +8,7 @@ python. The final bot was done using Arduino setup with an Al image-recognition 
 ## Final* Components
 *components were upgraded over the course of the season
 - Raspberry Pi Pico (Running Python Script)
+- 3D-Printed Chasis
 - Waveshare DC Motor Control Board
 - MPU6050 Gyroscope/Accelerometer (not always used)
 - HC SR04 Ultrasonic Sensor (not always used)

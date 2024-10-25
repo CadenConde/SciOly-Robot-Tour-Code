@@ -1,4 +1,4 @@
-# 2024 Robot Tour Scource Code
+# 2024 Robot Tour Source Code
 
 ## About
 <p>The 2024 Robot Tour event challenged teams to create a robot which could navigate through a maze, and end on a target pointat a specified time. The robot could not be controlled during a run, so the path needed to be pre-programmed prior to a starting.Additionally, there were certain optional "Bonus Squares" which would give a team additional points if the robot could gotthrough it on it's path to the target.</p>
